@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/applecation/page/Scenes/app dis/menu.unity
+    guid: ed816bd0557dd2244a54e7f1b7852e02
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/Your virtual assistant.unity
+    guid: a9cfcd86e0d0f6b458e8056ce7a899b9
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/free your slef.unity
+    guid: 173d64b97781e544eba28b837e81e94d
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/about.unity
+    guid: b7424c459ee0f6345a3bbc23b73774b8
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/Additional features.unity
+    guid: 3650a4c4056ef3543bf1a5c0430eebf6
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/free your self/disganyourdoctor/CharacterCreator2D/Creator
+      UI/Creator UI.unity
+    guid: 052aa07681e0d3a48bbcba2afad67a6e
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/additional featuers/specialists/specialists.unity
+    guid: c40624902a3c18542a1596848a94d3c7
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/additional featuers/your achievement/FlatCalendar/Scene/FlatCalendarExampleDemo.unity
+    guid: 223eafb70098b46dfa9bbcd5cd34bfc8
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/additional featuers/your achievement/DailyRewards/Examples/Scenes/Daily
+      Rewards Landscape.unity
+    guid: 94e7fec22855d914aaa981ef9bfde66e
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/free your self/liveingroom/HQ House/Scenes/addiction.unity
+    guid: ec9c162bffc4c704088c0ebc9a67a813
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/free your self/supplement.unity
+    guid: 968a45e73624ffa49acb077941f0b920
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/additional featuers/Treatment Centers/treatmentcrnter.unity
+    guid: 4e6dd64b158621149a5ab92e2b18b7fe
+  - enabled: 0
+    path: Assets/applecation/page/Scenes/app dis/free your self/video.unity
+    guid: 84481509c6926364a9c99bc69dca668f
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5fb78da65ead4674c8e0b5efc1679e1d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 40c2c33fbacbf604a864d349d284be33, type: 2}
